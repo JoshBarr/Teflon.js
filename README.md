@@ -1,1 +1,2 @@
-# Teflon: the non-stick image slider
+# Teflon
+The non-stick, responsive image slider.
