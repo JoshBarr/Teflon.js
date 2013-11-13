@@ -23,7 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "on-media-query": "*",
-    "browser.js": "*"
+    "on-media-query": "0.2.0",
+    "browser.js": "0.1.0"
   }
 }
